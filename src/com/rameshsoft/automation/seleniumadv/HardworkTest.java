@@ -10,7 +10,6 @@ public static void main(String[] args) {
 	
 	System.out.println("Do hardwork");
 System.out.println("Do hardwork");
-	System.out.println("Do hardwork");
-System.out.println("Do hardwork");
+	
 }
 }

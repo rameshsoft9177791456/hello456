@@ -4,7 +4,7 @@ public class ArraysTest {
 public static void main(String[] args) {
 	
 	Object[] obj = new Object[6];
-	
+	System.out.println("java");
 	obj[0] = 456;
 	obj[1] = "hello";
 	obj[2] = 456.456;

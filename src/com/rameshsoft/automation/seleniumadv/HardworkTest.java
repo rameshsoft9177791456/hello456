@@ -1,6 +1,6 @@
 package com.rameshsoft.automation.seleniumadv;
 
-public class Test {
+public class HardworkTest {
 	
 	public void hardwork() {
 		System.out.println("Hardwork = job");

@@ -10,7 +10,7 @@ public class ExamTest {
 public static void main(String[] args) {
 	
 	List<Integer> list = new ArrayList<Integer>();
-	
+	List<Integer> list1 = new ArrayList<Integer>();
 	list.add(456);
 	list.add(56);
 	list.add(1);
